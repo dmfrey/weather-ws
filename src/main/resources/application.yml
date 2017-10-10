@@ -1,0 +1,8 @@
+
+logging:
+  level:
+    org.springframework.ws: TRACE
+    org.apache.http: DEBUG
+
+base:
+  url: http://www.webservicex.net/globalweather.asmx
